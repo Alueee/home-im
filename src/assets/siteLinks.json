@@ -2,36 +2,81 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "link": "https://blog.ialue.com/"
   },
   {
-    "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
-  },
-  {
-    "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "icon": "LaptopCode",
+    "name": "探针",
+    "link": "https://status.ialue.com/"
   },
   {
     "icon": "Compass",
     "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "link": "https://nav.ialue.com/"
+  },
+  {
+    "icon": "CloudDownloadAlt",
+    "name": "Alist",
+    "link": "https://alist.ialue.com/"
+  },
+  {
+    "icon": "Server",
+    "name": "状态",
+    "link": "https://uptime.ialue.com/"
+  },
+    {
+    "icon": "CompactDisc",
+    "name": "音乐",
+    "link": "https://music.ialue.com/"
   },
   {
     "icon": "Book",
     "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "link": "https://web.ialue.com/"
   },
   {
     "icon": "Fire",
     "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
+    "link": "https://hot.ialue.com/"
   },
   {
     "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "name": "ChatGPT",
+    "link": "https://chatgpt.ialue.com/"
+  },
+    {
+    "icon": "Sistrix",
+    "name": "IP查询",
+    "link": "https://ip.ialue.com/"
+  },
+  {
+    "icon": "Image",
+    "name": "图床",
+    "link": "https://image.ialue.com/"
+  },
+    {
+    "icon": "Microsoft",
+    "name": "E5保活",
+    "link": "https://e5.ialue.com/"
+  },
+ {
+    "icon": "Cloud",
+    "name": "机场",
+    "link": "https://cloud.aluecloud.free.hr/"
+  },
+ {
+    "icon": "Gamepad",
+    "name": "Mikutap",
+    "link": "https://mikutap.ialue.com/"
+  },
+ {
+    "icon": "Qrcode",
+    "name": "2fa",
+    "link": "https://2fa.ialue.com/"
+  },
+ {
+    "icon": "GrinSquintTears",
+    "name": "反诈页",
+    "link": "https://2fa.ialue.com/"
   }
 ]
